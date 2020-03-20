@@ -15,7 +15,9 @@
 	text-shadow:0 1px 0 #b23e35;
 }
 
-
+.space{
+	margin: 50px 10px 50px 10px;
+}
 
 .myButton:hover {
 	background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
